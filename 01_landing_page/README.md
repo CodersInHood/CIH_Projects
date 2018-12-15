@@ -14,5 +14,6 @@
     - https://squoosh.app/
 - Mobile friendly websites
     - https://search.google.com/test/mobile-friendly
+    
 =======================================
  
